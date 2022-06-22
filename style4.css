@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+body {
+  background-color: rgb(148, 148, 203);
+}
+.container {
+  max-width: 320px;
+  padding: 0 20px;
+  margin: auto;
+}
+.title {
+  color: aliceblue;
+  background-color: rgb(117, 117, 213);
+  text-align: center;
+  padding: 20px 0;
+}
+.subtitle {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+button {
+  padding: 10px 35px 10px 35px;
+  background-color: rgb(98, 147, 131);
+  border-radius: 7px;
+  border: none;
+  margin-bottom: 20px;
+}
+.book__enter {
+  font-size: 24px;
+  color: white;
+}
